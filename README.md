@@ -1,5 +1,5 @@
 ## Traffic-Flow-Regulation
-#Traffic Signal Optimization using Image and Video Analysis
+Traffic Signal Optimization using Image and Video Analysis
 
 Traffic congestion is a pervasive issue in urban areas, leading to increased travel time, fuel consumption, and environmental pollution. Traditional traffic signal systems lack adaptability and struggle to efficiently handle varying traffic conditions. 
 
